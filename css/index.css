@@ -19,7 +19,7 @@ body {
 	color: #333;
 	background: #E6E6E6;
 	font-size: 1em;
-	font-family: "Segoe UI", sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	line-height: 135%;
 }
 
@@ -95,13 +95,13 @@ header {
 
 .contact {
 	font-size: 1.5em;
-	font-family: Comic Sans MS, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	margin-left: 20px;
 }
 
 #contact {
 	font-size: 1.5em;
-	font-family: Comic Sans MS, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	margin-left: 20px;
 }
 
@@ -115,7 +115,7 @@ input[type=text].field {
 
 #menu {
 	color: #667;
-	font-family: Comic Sans MS, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 1.7em;
 }
 
@@ -131,7 +131,7 @@ input[type=text].field {
 	border-radius: 5px;
 	margin-right: 5px;
 	color: #DB4343;
-	font-family: Comic Sans MS, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 
 	transition: all.6s ease;
 	-moz-transition: all.6s ease;
@@ -254,7 +254,7 @@ input[type=text].field {
 .one_text {
 	font-size: 20px;
 	margin-left: 10px;
-	font-family: Comic Sans MS, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	padding: 4px 5px;
 	color: #fff;
 	background-color: #515151;
@@ -372,7 +372,7 @@ form #send:hover {
 	padding: 5px 10px;
 	background-color: #e9af32;
 	color: #fff;
-	font-family: Comic Sans MS, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	border-radius: 65px; 
 	margin-left: 38%;
 	margin-top: 3%;
